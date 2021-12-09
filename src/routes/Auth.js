@@ -14,7 +14,8 @@ const Auth =  () => {
         }
 
     }
-    
+
+    console.log('commit')
     const onSubmit = (e) => {
         e.preventDefault()
     }
